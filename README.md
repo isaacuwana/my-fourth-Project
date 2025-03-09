@@ -1,4 +1,4 @@
-# 🎨 Data Visualization Project – Isaac Adeyeye
+# 🎨 Data Visualization Project
 
 ## 📌 Project Overview
 
